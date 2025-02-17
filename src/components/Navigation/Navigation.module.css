@@ -1,0 +1,28 @@
+.link {
+  color: rgb(54, 32, 4);
+  text-shadow: 2px 2px 2px #f7f5f2;
+  font-size: 30px;
+  font-weight: 800;
+  text-decoration: none;
+}
+.nav {
+  display: flex;
+  gap: 20px;
+  font-weight: 900;
+  /* background-color: #619179; */
+  /* background: local; */
+  padding: 40px;
+  /* text-align: end; */
+  justify-content: flex-end;
+  background-image: url("https://as2.ftcdn.net/v2/jpg/12/65/25/65/1000_F_1265256541_A7l4JZ2bmSzfNdDtolm4ZNWzoNvghsYB.jpg");
+  /* background-size: auto; */
+  background-position: center;
+}
+.link:hover {
+  color: rgb(231, 95, 4);
+}
+.active {
+  color: rgb(196, 72, 67);
+  text-decoration: underline;
+  text-shadow: 2px 2px 2px 2px #f7f5f2;
+}

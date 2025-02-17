@@ -1,0 +1,14 @@
+.header {
+  color: rgb(248, 93, 4);
+  text-decoration: underline;
+  /* text-shadow: 8px 8px 8px #b86e00; */
+  text-shadow: 2px 2px 2px #b86e00;
+
+  margin-bottom: 30px;
+  margin-top: 30px;
+  text-decoration-thickness: 5px;
+  text-decoration: dotted;
+  /* background-image: url("https://as2.ftcdn.net/v2/jpg/12/65/25/65/1000_F_1265256541_A7l4JZ2bmSzfNdDtolm4ZNWzoNvghsYB.jpg");
+  background-size: cover;
+  background-position: center; */
+}
